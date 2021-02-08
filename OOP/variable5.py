@@ -18,7 +18,7 @@ class Car:
 c1 = Car(); c2 = Car()
 c1.mil = 2903329; c1.cc = 3500
 #this will affect all  instances on Car class
-Car.wheels = 5
+Car.wheels = 6
 
 print(c1.mil, c1.com, c1.cc, c1. wheels)
 print(c2.mil, c2.com, c2.cc, c2.wheels)

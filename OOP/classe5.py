@@ -23,4 +23,4 @@ print(c2.name)
 if c1.compare(c2):
     print('They are the same')
 else:
-    print('They are different')
+    print('They are Different')

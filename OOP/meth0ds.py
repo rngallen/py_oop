@@ -46,7 +46,7 @@ class Student:
         return now.strftime('%c')
 
 
-s1 = Student(88, 98, 90)
+s1 = Student(78, 98, 90)
 s2 = Student(89, 92, 83)
 
 

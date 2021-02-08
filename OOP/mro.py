@@ -27,7 +27,7 @@ class C(A, B):
     def __init__(self, *args, **kwargs):
         # super recall the superclass to subclass
         super(C, self).__init__(*args, **kwargs)
-        print('In c init')
+        print('In C init')
 
     # accessing super class method using 'super()'
     def feature(self):
